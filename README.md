@@ -11,7 +11,7 @@ A Python program that detects pushups using computer vision and counts them auto
 
 ## Requirements
 
-- Python 3.10.0(not tested on other versions)
+- Python 3.10.0 (not tested on other versions)
 - Webcam (built-in or external)
 
 ## Installation
@@ -64,4 +64,5 @@ The pushup count is stored in the `pushup_count` variable and is printed to the 
 - OpenCV-Python: For computer vision and video processing
 - MediaPipe: For pose detection and landmark tracking
 - NumPy: For mathematical calculations
+
 
